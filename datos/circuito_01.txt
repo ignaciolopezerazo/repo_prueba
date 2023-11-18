@@ -1,0 +1,1 @@
+https://mapa2.electoral.gov.ar:443/geoserver/wfs?authkey=28f2489b3f334c285f5c472a329cbb2b?service=WFS&version=1.0.0&request=GetFeature&authkey=28f2489b3f334c285f5c472a329cbb2b&typeName=descargas:circuito_01&maxFeatures=2000&outputFormat=SHAPE-ZIP
